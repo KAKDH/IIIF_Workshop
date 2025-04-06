@@ -1,0 +1,15 @@
+{
+  "id" : "https://KAKDH.github.io/IIIF_Workshop/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in KAKDH/IIIF_Workshop project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://KAKDH.github.io/IIIF_Workshop/manifests/manifest.json",
+    "label" : {
+      "none" : [ "Generated from 'prototypeWebsite' named query" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
